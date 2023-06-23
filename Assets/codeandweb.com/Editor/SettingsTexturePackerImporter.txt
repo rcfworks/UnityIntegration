@@ -1,0 +1,14 @@
+version: 2
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Textures/atlas_package_a.tpsheet
+- Assets/Textures/atlas_package_b.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Textures/atlas_package_a.png
+- Assets/Textures/atlas_package_b.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+enableDebugOutput: 0
